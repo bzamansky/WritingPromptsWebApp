@@ -1,7 +1,4 @@
 import unittest
-from api import initialPrompt
-from unittest.mock import patch
-import mocks
 
 class TestingApiCalls(unittest.TestCase):
     # def testInitialPrompt(self):
